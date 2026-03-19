@@ -15,43 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>MERN Stack Developer Intern</h4>
+                <h5>Brototype</h5>
               </div>
               <h3>2020</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
-              </div>
-              <h3>2021</h3>
-            </div>
-            <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Built full-stack web applications using the MERN stack. Focused on problem-solving with Data Structures and Algorithms (DSA) and building responsive UIs using Tailwind CSS and TypeScript.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h5>Self-Employed</h5>
+              </div>
+              <h3>2025</h3>
+            </div>
+            <p>
+             Worked independently to build and deploy modern web applications, managing code versioning and collaborative workflows.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>MERN & Python Full Stack Mentor</h4>
+                <h5>Corpus Data Hub</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+             Mentoring aspiring developers and guiding them through full-stack web development concepts using the MERN stack and Python.
             </p>
           </div>
         </div>
