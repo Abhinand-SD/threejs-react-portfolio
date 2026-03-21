@@ -18,7 +18,7 @@ const Career = () => {
                 <h4>MERN Stack Developer Intern</h4>
                 <h5>Brototype</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2024</h3>
             </div>
             <p>
               Built full-stack web applications using the MERN stack. Focused on problem-solving with Data Structures and Algorithms (DSA) and building responsive UIs using Tailwind CSS and TypeScript.

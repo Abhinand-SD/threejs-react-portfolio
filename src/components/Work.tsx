@@ -5,35 +5,29 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "Solid Starters",
-    category: "Low-Code Platform",
-    tools: "Angular, Next.js, NestJS, MongoDB",
-    image: "/images/Solidx.png",
-  },
-  {
-    title: "Radix",
+    title: "Laksyah Trends",
     category: "E-Commerce",
-    tools: "Angular, Next.js, NestJS, CMS",
-    image: "/images/radix.png",
+    tools: "React.js, toastify, Tailwind CSS, razorpay, Node.js, Express, MongoDB",
+    image: "/images/LaksyahTrends.png",
   },
   {
-    title: "Bond Cancellation",
-    category: "Import-Export Automation",
-    tools: "Angular, Next.js, NestJS, Workflows",
-    image: "/images/bond.png",
+    title: "ASD Hospital",
+    category: "Hospital Management System",
+    tools: "React, Next.js, Tailwind CSS, Google sign in, MongoDB, Node.js, Express",
+    image: "/images/ASDHospital.png",
   },
   {
-    title: "Sapphire",
-    category: "CRM Platform",
-    tools: "AngularJS, NestJS, PostgreSQL",
-    image: "/images/sapphire.png",
+    title: "Instagram Insights",
+    category: "Social Media Analytics",
+    tools: "React.js, Tailwind CSS, Framer Motion, JSZip",
+    image: "/images/InstagramInsights.png",
   },
   {
-    title: "Mpro",
-    category: "Insurance Platform",
-    tools: "React.js, Node.js, Microservices",
-    image: "/images/Maxlife.png",
-  },
+     title: "Zomato Expence Tracker",
+    category: "Expence Tracker",
+    tools: "Vanilla JS, CSS, Theme auto detection, Local storage, Responsive design, Chrome extension",
+    image: "/images/ZomatoExpenceTracker.png",
+  }
 ];
 
 const Work = () => {
